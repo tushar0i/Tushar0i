@@ -24,6 +24,8 @@
 ---
 
 ### 📌 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Tushar0i)  
+- 🐦 [X (Twitter)](https://twitter.com/Tushar0i)
 - 📂 [GitHub Profile](https://github.com/Tushar0i)
 - 💬 Open to collaborations and discussions!
 
