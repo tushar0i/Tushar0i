@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-🚀 Aspiring Full-Stack Developer | 💻 Java & Web Dev Learner | ⚡ Open-Source Enthusiast
+🚀 Aspiring Full-Stack Developer | 💻 C++ & Web Dev Learner | ⚡ Open-Source Enthusiast
 
 ---
 
 ### 🚀 About Me
 - 🎓 Computer Science student(soon)
-- 💡 Currently learning **Java for DSA** and **Full-Stack Web Development**
+- 💡 Currently learning **C++ for DSA** and **Full-Stack Web Development**
 - 🔧 Exploring **GitHub**, **Version Control**, and **Collaboration**
 - 💼 Interested in **internships and hackathons**
 - 🎯 Passionate about **problem-solving and coding**
@@ -15,7 +15,7 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Java, JavaScript(soon), HTML, CSS
+- **Languages:** Java, C++, JavaScript(soon), HTML, CSS
 - **Web Development:** React (soon), Node.js (soon), Express.js (soon)
 - **Databases:** MongoDB (soon), MySQL (soon)
 - **Version Control:** Git & GitHub
