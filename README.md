@@ -49,10 +49,9 @@
   <img src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
 </a>
 
-### 📊 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar0i&theme=github-compact&area=true&hide_border=true" alt="tushar0i GitHub Contribution Graph" />
-</p>
+### 🧠 Coding Habits
+
+![Metrics](./metrics.plugin.habits.svg)
 
 ---
 
