@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30" width="40" /></a>
   <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/tushar0i" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
@@ -49,9 +50,11 @@
   <img src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
 </a>
 
-### 🧠 Coding Habits
 
-![Metrics](./metrics.plugin.habits.svg)
+### 📊 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar0i&theme=github-compact&area=true&hide_border=true" alt="tushar0i GitHub Contribution Graph" />
+</p>
 
 ---
 
