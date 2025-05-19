@@ -38,16 +38,18 @@
 <h3 align="left">Projects & Interests:</h3>
 <ul>
   <li>🚀 I’m documenting my learning journey in <a href="https://github.com/Tushar0i/dsacpp-journal" target="_blank">`dsacpp-journal`</a> to track my progress and reflect on what I’ve learned</li>
+  
   <li>🌟 I'm finally doing what I wanted to do — learning to code!</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact" alt="tushar0i" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tushar0i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en" alt="tushar0i" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=neon&layout=compact&hide=contribs,prs" alt="tushar0i" /></p>
+
 
 ### 📊 My GitHub Contribution Calendar
 <a href="https://github.com/tushar0i">
-  <img src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
+  <img  src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
 </a>
 
 
