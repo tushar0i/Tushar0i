@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently learning Python
   
-- 📊 Exploring **full-stack web dev** & **Data science **
+- 📊 Exploring **full-stack web dev** & **Data science**
 
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
 
