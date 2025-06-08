@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Thakur</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | 💻 C++ & Web Dev Learner | ⚡ Open-Source Enthusiast</h3>
+<h3 align="center">🚀 Aspiring data scientist | 💻 Python & Web Dev Learner | ⚡ Open-Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar0i&label=Profile%20views&color=0e75b6&style=flat" alt="tushar0i" />
 </p>
 
-- 🚀 I’m currently learning C++ for DSA
+- 🚀 I’m currently learning Python
   
-- 📊 Exploring **full-stack web dev** & **open source**
-
-- 🧰 Building `dsacpp-journal` to track my journey
+- 📊 Exploring **full-stack web dev** & **Data science **
 
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
 
@@ -26,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://isocpp.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3.org/TR/css/#css" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -37,8 +35,7 @@
 
 <h3 align="left">Projects & Interests:</h3>
 <ul>
-  <li>🚀 I’m documenting my learning journey in <a href="https://github.com/Tushar0i/dsacpp-journal" target="_blank">`dsacpp-journal`</a> to track my progress and reflect on what I’ve learned</li>
-  
+ 
   <li>🌟 I'm finally doing what I wanted to do — learning to code!</li>
 </ul>
 
