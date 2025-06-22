@@ -47,9 +47,11 @@
   <li>🌟 I'm finally doing what I wanted to do — learning to code!</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tushar0i" /></p>
+_________________
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=neon&layout=compact&hide=contribs,prs" alt="tushar0i" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="tushar0i" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&layout=compact&hide=contribs,prs" alt="tushar0i" /></p> 
 
 
 ### 📊 My GitHub Contribution Calendar
