@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/header.png" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/header1.png" alt="LinkedIn"/></a>
 <h3 align="center"> 💻 Python & Web Dev Learner | ⚡ Open-Source Enthusiast</h3>
 
 <p align="center">
