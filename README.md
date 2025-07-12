@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/header1.png" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/01header.png" alt="LinkedIn"/></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar0i&label=Profile%20views&color=0e75b6&style=flat" alt="tushar0i" />
