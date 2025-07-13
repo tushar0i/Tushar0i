@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" /></a>
   <a href="https://www.youtube.com/@tusharzeroi" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="30" width="40" /></a>
   <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
