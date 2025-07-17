@@ -4,14 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=tushar0i&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="tushar0i" />
 </p>
 
-#### What I'm up to
+### What I'm up to
 
 - 🔭 Currently learning **Python** and sharpening my programming fundamentals
 - 📊 Exploring the world of **Full-Stack Web Development** and **Data Science**
 - 🧰 Working on building projects and participating in **hackathons** to improve real-world skills
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
 
-<h4 align="left">Connect with Me</h4>
+<h3 align="left">Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="27" width="36" /></a>
   <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="27" width="36" alt="Twitter" /></a>
@@ -30,7 +30,7 @@
   <a href="https://auth.geeksforgeeks.org/user/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p> -->
 
-<h4 align="left">Languages and Tools</h4>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
@@ -41,7 +41,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
-#### Projects & Interests
+### Projects & Interests
 
 - 🚀 Currently working on small Python and JavaScript projects
 - 🤝 Eager to contribute to open-source projects and collaborate with the developer community
@@ -54,13 +54,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&layout=compact&hide=contribs,prs" alt="tushar0i" /></p> 
 
 
-#### 📊 My GitHub Contribution Calendar
+### 📊 My GitHub Contribution Calendar
 <a href="https://github.com/tushar0i">
   <img  src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
 </a>
 
 
-#### 📊 GitHub Contribution Graph
+### 📊 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar0i&theme=github-compact&area=true&hide_border=true" alt="tushar0i GitHub Contribution Graph" height="500"/>
 </p>
