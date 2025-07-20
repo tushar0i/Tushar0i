@@ -61,8 +61,8 @@
 
 
 ### 📊 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar0i&theme=github-compact&area=true&hide_border=true" alt="tushar0i GitHub Contribution Graph" height="500"/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar0i&theme=github-compact&area=true&hide_border=true" alt="tushar0i GitHub Contribution Graph" width="900p"/>
 </p>
 
 
