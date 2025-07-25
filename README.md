@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="27" width="36" /></a>
-  <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="27" width="36" alt="Twitter" /></a>
-  <a href="https://www.youtube.com/@tusharzeroi" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="24" width="32" /></a>
-  <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="27" width="36" /></a>
-  <a href="https://www.instagram.com/tusharzeroi" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Instagram" height="27" width="36" /></a>
-  <a href="https://linktr.ee/tushar0i" target="_blank"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="Linktree" height="27" width="27" /></a>
+  <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" /></a>
+  <a href="https://www.youtube.com/@tusharzeroi" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="27" width="36" /></a>
+  <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/tusharzeroi" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linktr.ee/tushar0i" target="_blank"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="Linktree" height="30" width="30" /></a>
 
 </p>
 
@@ -32,14 +32,15 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
 ### Projects & Interests
 
