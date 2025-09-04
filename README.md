@@ -55,10 +55,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="tushar0i" /></p> 
 
 
-### 📊 My GitHub Contribution Calendar
-<a href="https://github.com/tushar0i">
-  <img  src="https://ghchart.rshah.org/tushar0i" alt="Tushar's Github chart" />
-</a>
+![snake gif](https://github.com/Tushar0i/Tushar0i/blob/output/github-snake-dark.svg)
 
 
 ### 📊 GitHub Contribution Graph
