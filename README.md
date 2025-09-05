@@ -50,10 +50,10 @@
 - 🌟 Finally doing what I always wanted — **Learning to Code!**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="tushar0i" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="tushar0i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="tushar0i" /></p> 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="tushar0i" /></p> -->
+![metric](https://github.com/Tushar0i/Tushar0i/blob/main/github-metrics.svg)
 
 ![snake gif](https://github.com/Tushar0i/Tushar0i/blob/output/github-snake-dark.svg)
 
