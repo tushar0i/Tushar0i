@@ -19,7 +19,7 @@ jobs:
           # Options
           user: Tushar0i
           template: classic
-          base: header, community, repositories, metadata
+          # base: header, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -29,6 +29,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
