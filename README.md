@@ -10,7 +10,10 @@
 - 📊 Exploring the world of **Full-Stack Web Development** and **Data Science**
 - 🧰 Working on building projects and participating in **hackathons** to improve real-world skills
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
-
+- 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
+- 🎧 Loves listening to **Electronic music** 
+- 🌟 Finally doing what I always wanted — **Learning to Code!**
+  
 <h3 align="left">Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -48,12 +51,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
-### Projects & Interests
 
-- 🚀 Currently working on small Python and JavaScript projects
-- 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
-- 🎧 Loves listening to **Electronic music** 
-- 🌟 Finally doing what I always wanted — **Learning to Code!**
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="tushar0i" /></p>
