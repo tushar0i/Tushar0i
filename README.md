@@ -32,8 +32,14 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
+<!-- <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,python,java,html,css,js" height="35px" />
+  </a>
+</p> -->
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
@@ -45,7 +51,7 @@
 ### Projects & Interests
 
 - 🚀 Currently working on small Python and JavaScript projects
-- 🤝 Eager to contribute to open-source projects and collaborate with the developer community
+- 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
 - 🎧 Loves listening to **Electronic music** 
 - 🌟 Finally doing what I always wanted — **Learning to Code!**
 
