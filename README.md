@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/01header.png" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/02header.gif" alt="LinkedIn"/></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar0i&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="tushar0i" />
@@ -6,8 +6,8 @@
 
 ### What I'm up to
 
-- 🔭 Currently learning **Python** and sharpening my programming fundamentals
-- 📊 Exploring the world of **Full-Stack Web Development** and **Data Science**
+- 🔭 Currently learning **Python** and basics of **Full-Stack Web Development**
+<!-- - 📊 Exploring the world of **Data Science** -->
 - 🧰 Working on building projects and participating in **hackathons** to improve real-world skills
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
 - 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
