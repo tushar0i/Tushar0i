@@ -1,8 +1,8 @@
 <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="assets/02header.gif" alt="LinkedIn"/></a>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushar0i&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="tushar0i" />
-</p>
+</p> -->
 
 ### What I'm up to
 
@@ -59,7 +59,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar0i&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="tushar0i" /></p> -->
 ![metric](https://github.com/Tushar0i/Tushar0i/blob/main/github-metrics.svg)
 
-![snake gif](https://github.com/Tushar0i/Tushar0i/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/Tushar0i/Tushar0i/blob/output/github-snake-dark.svg) -->
 
 
 ### 📊 GitHub Contribution Graph
