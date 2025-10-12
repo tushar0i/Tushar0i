@@ -7,7 +7,6 @@
 ### What I'm up to
 
 - 🔭 Currently learning **Python** and basics of **Full-Stack Web Development**
-<!-- - 📊 Exploring the world of **Data Science** -->
 - 🧰 Working on building projects and participating in **hackathons** to improve real-world skills
 - 💌 Contact me: **tusharthakur.dev@gmail.com**
 - 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
@@ -35,12 +34,12 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-<!-- <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,python,java,html,css,js" height="35px" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,python,html,css,js,nodejs,react,mongodb,express,vscode" height="40px" />
   </a>
-</p> -->
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
+</p>
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
@@ -50,8 +49,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-
-
+<img src=" " alt="logo" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="logo" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="logo" width="35" height="35"  /> -->
+          
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar0i&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="tushar0i" /></p>
