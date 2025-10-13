@@ -6,9 +6,9 @@
 
 ### What I'm up to
 
-- 🔭 Currently learning **Python** and basics of **Full-Stack Web Development**
+- 🔭 Currently learning **Python** and **Full-Stack Web Development (MERN)**
 - 🧰 Working on building projects and participating in **hackathons** to improve real-world skills
-- 💌 Contact me: **tusharthakur.dev@gmail.com**
+- 💌 Contact me: **tusharthakur@zohomail.in**
 - 🤝 Eager to contribute to **open-source projects** and collaborate with the developer community
 - 🎧 Loves listening to **Electronic music** playlist <a href = "https://open.spotify.com/playlist/3FfKU1bZ93lD95OD7ofamo?si=ZxhcV5O3Qz264TuoIq8Zew">**link** <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" height="16" width="16" /> </a>
 - 🌟 Finally doing what I always wanted — **Learning to Code!**
