@@ -20,17 +20,18 @@
   <a href="https://www.youtube.com/@tusharzeroi" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="27" width="36" /></a>
   <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://www.instagram.com/tusharzeroi" target="_blank"><img src="https://www.svgrepo.com/show/13639/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://linktr.ee/tushar0i" target="_blank"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="Linktree" height="30" width="30" /></a>
+  <!-- <a href="https://linktr.ee/tushar0i" target="_blank"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="Linktree" height="30" width="30" /></a> -->
+   <a href="https://codeforces.com/profile/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
 
 </p>
 
-<h3 align="left">Coding Profiles</h3>
+<!-- <h3 align="left">Coding Profiles</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/tushar0i" target="_blank"><img src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Codechef" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+ 
   <a href="https://auth.geeksforgeeks.org/user/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-</p> 
+</p>  -->
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
