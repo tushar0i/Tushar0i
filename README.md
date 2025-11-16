@@ -37,7 +37,7 @@
 <p align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,python,html,css,js,nodejs,react,mongodb,express,vscode" height="40px" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,python,html,css,js,nodejs,react,mongodb,express,redux,tailwind,vscode" height='80px' />
   </a>
 </p>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
